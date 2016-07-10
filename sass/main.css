@@ -2800,7 +2800,7 @@ button,
 
 /* Header */
 #header {
-  padding: 5em 0 0.1em 0 ; }
+  padding: 6em 0 0.1em 0 ; }
   #header .logo {
     display: block;
     border-bottom: 0;
@@ -2818,8 +2818,8 @@ button,
       margin-right: 0.65em; }
       #header .logo .symbol img {
         display: block;
-        width: 41em;
-        height: 12em; }
+        width: 21em;
+        height: 6em; }
   #header nav {
     position: fixed;
     right: 2em;
