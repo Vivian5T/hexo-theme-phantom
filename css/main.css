@@ -1690,6 +1690,11 @@
 		margin: 0 0 2em 0;
 	}
 
+		p img {
+			width: 100%;
+			display: block;
+		}
+
 	h1 {
 		font-size: 2.75em;
 		font-weight: 700;
@@ -2879,8 +2884,8 @@
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					width: 21em;
+					height: 6em;
 				}
 
 		#header nav {
