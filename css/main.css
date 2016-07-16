@@ -1691,8 +1691,9 @@
 	}
 
 		p img {
-			width: 70%;
+			width: 100%;
 			display: block;
+			max-width:780px;
 		}
 
 	h1 {
