@@ -1263,8 +1263,9 @@ em, i {
 p {
   margin: 0 0 2em 0; }
   p img {
-    width: 85%;
-    display: block; }
+    width: 100%;
+    display: block;
+    max-width: 780px; }
 
 h1 {
   font-size: 2.75em;
